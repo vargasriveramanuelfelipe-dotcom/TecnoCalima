@@ -1,0 +1,38 @@
+Product photos are stored locally to avoid third-party image failures.
+
+iphone-15-pro-max.jpg
+  File: https://commons.wikimedia.org/wiki/File:About_iPhone_15_Pro_Max_Natural_Titanium.jpg
+  Author: メイド理世 — CC BY-SA 4.0
+
+macbook-pro-m3.jpg
+  File: https://commons.wikimedia.org/wiki/File:Apple_MacBook_Pro_(M3).jpg
+  Author: Xkalponik — CC0
+
+airpods-max.jpg
+  File: https://commons.wikimedia.org/wiki/File:Apple_AirPods_Max_3.jpg
+  Author: SimonWaldherr — CC BY-SA 4.0
+
+galaxy-s24-ultra.jpg
+  File: https://commons.wikimedia.org/wiki/File:SAMSUNG_Galaxy_S24_Ultra_(4).jpg
+  Author: Dinkun Chen — CC BY-SA 4.0
+
+sony-headphones.jpg
+  File: https://commons.wikimedia.org/wiki/File:Sony-WH-1000XM3-kabellose-Bluetooth-Noise-Cancelling-Kopfhoerer.jpg
+  Author: digitalpush.net — CC BY 4.0
+
+apple-watch-series-9.jpg
+  File: https://commons.wikimedia.org/wiki/File:Apple_Watch_Series_9_(cropped).jpg
+  Author: FASTILY — CC BY-SA 4.0
+
+logitech-mx-master-3s.jpg
+  File: https://commons.wikimedia.org/wiki/File:Logitech_MX_Master_3S_HS03.jpg
+  Author: Hayden Schiff — CC BY 4.0
+
+ipad-air-m2.jpg
+  File: https://commons.wikimedia.org/wiki/File:About_iPad_Air_11-inch_(M2).jpg
+  Author: メイド理世 — CC BY-SA 4.0
+
+CC BY 4.0 and CC BY-SA 4.0 images are shared under the terms at
+https://creativecommons.org/licenses/by/4.0/ and
+https://creativecommons.org/licenses/by-sa/4.0/ respectively. CC BY-SA
+images must remain available under the same license when redistributed.
